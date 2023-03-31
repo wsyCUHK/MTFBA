@@ -1,2 +1,2 @@
 # MTFBA
-![SNR](/SNR_VS_Codebook1214.pdf)
+![SNR](./figures/SNR_VS_Codebook1214.png)
