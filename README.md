@@ -13,4 +13,4 @@ In this figure, we also evaluate the achieved SNR distribution across the channe
 
 ## Performance in 30dBm
 ![30dBm](./figures/ACC_VS_Codebook1214_30DBM.png)
-For fair comparison, in the submitted paper, we adopt the same transmit power in [11], which is 10 dBm. We agree with the reviewer that the transmit power of base stations could be 30 dBm. In this response letter, we plot the accuracy comparison with transmit power 30dBm. We can observe that MTFBA provide extra 3.1% average SNR compared with [11]. Therefore, we believe that the proposed multi-task learning framework can improve the beam alignment performance in terms of both accuracy and SNR.
+For fair comparison, in the submitted paper, we adopt the same transmit power in [11], which is 10 dBm. In this figure, we also plot the accuracy comparison with transmit power 30dBm. We can observe that MTFBA provide extra 3.1% average SNR compared with [11]. Therefore, we believe that the proposed multi-task learning framework can improve the beam alignment performance in terms of both accuracy and SNR.
